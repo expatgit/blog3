@@ -9,7 +9,7 @@ security:
             memory:
                 users:
                     owner:
-                        password: $2y$12$lWmW9m8QnSc9OcTlCZ0UfO/0GhCEdbPhY6SBGZlcCqoe4XihAyuYi
+                        password: $2y$12$axgBcSyplhMzeg8E/M451OfpemPfBoNNUaqxKKkRgTD4ZrjgnqFm6
                         roles: 'ROLE_ADMIN'
 
     firewalls:
